@@ -1,7 +1,3 @@
-Got it! I’ll draft a **complete README** tailored for your Full-Stack Blogging Platform so it matches the submission guidelines and is ready to paste into your GitHub repo. You can tweak deployment URL and time spent later.
-
----
-
 # 📝 Full-Stack Blogging Platform
 
 ## Project Overview
